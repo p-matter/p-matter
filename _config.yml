@@ -1,0 +1,19 @@
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: "https://p-matter.work"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: "https://p-matter.work"
+author: "P-Matter"
+
+# Disqus config
+disqus-shortname: ""
