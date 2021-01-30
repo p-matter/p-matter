@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About me 
+title: About
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Got a question?
+
+You can directly contact __*mail@p-matter.work*__ for more information!
