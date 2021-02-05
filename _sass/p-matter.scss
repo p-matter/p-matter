@@ -40,7 +40,7 @@ hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
-a, strong { color: orange; }
+a, strong { color: orange; transition: fade-out(black, .3s);}
 
 li { margin: 0.4rem 0; }
 
