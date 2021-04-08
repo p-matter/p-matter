@@ -1,0 +1,19 @@
+{
+  "name": "p-matter",
+  "version": "1.0.0",
+  "description": "Making with <3 by *p-matter*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-matter/p-matter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-matter/p-matter/issues"
+  },
+  "homepage": "https://github.com/p-matter/p-matter#readme"
+}
