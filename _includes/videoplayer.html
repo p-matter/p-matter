@@ -2,8 +2,8 @@
 <video id="video" controls ></video>
 <script>
   var video = document.getElementById('video');
-  var videoSrc = 'https://p-matter.work/assets/apex.m3u8'; //CDN: https://cdn.jsdelivr.net/gh/p-matter/p-matter/assets/apex.m3u8
-  if (Hls.isSupported()) {
+  var videoSrc = 'https://lowly-reason.surge.sh/static/r6.mp4'; //CDN: https://cdn.jsdelivr.net/gh/p-matter/p-matter/assets/apex.m3u8
+  if (Hls.isSupported()) { // ORIGINAL: https://p-matter.work/assets/apex.m3u8
     var hls = new Hls();
     hls.loadSource(videoSrc);
     hls.attachMedia(video);
