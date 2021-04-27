@@ -2,7 +2,7 @@
 <video id="video" controls ></video>
 <script>
   var video = document.getElementById('video');
-  var videoSrc = 'http://iho-example.surge.sh/vue.mp4'; //CDN: https://cdn.jsdelivr.net/gh/p-matter/p-matter/assets/apex.m3u8 || https://p-matter.work/assets/apex.m3u8
+  var videoSrc = 'https://p-matter.work/assets/apex.m3u8'; //CDN: https://cdn.jsdelivr.net/gh/p-matter/p-matter/assets/apex.m3u8 || https://p-matter.work/assets/apex.m3u8
   if (Hls.isSupported()) { // ORIGINAL: 
     var hls = new Hls();
     hls.loadSource(videoSrc);
